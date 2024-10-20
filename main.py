@@ -260,7 +260,223 @@ ure rate. An underspending of more than 10% is also considered unfavourable, bec
  totally in line with the perception of the general public regarding projects and project manage
 ment as given at the start of this paragraph. The main question is now what can be done further
  or maybe differently to change this situation.
+
+## 1.8 People are key in the management of projects
  
+What has already been touched upon in the previous paragraphs is that successful projects are
+ integrated throughout the project lifecycle. The early involvement of the project manager is
+ essential to ensure full alignment with the business case. But early involvement of contractors
+ and suppliers as well as maintenance and operations staff is also essential.
+ 
+Timely involvement of suppliers and contractors is important to have a smooth design process
+ focused on constructability later on in the project cycle. Bringing maintenance and operations
+ staff in early in the project will contribute to an effective handover and start-up process and will
+ support the future maintainability of the plant. In short, if the project manager is able to build
+ together with his contractors and subcontractors a fully integrated team, or in other words if the
+ project manager is able to build a team that operates as one entity– a seamless team– evidence
+ shows (Bosch, 2011) that such a project team is most likely to be successful. It is also strongly
+ recommended to early invite the assurance staff who will perform the stage gate reviews in order
+ to agree which process steps to follow and which deliverables will be adhered to.
+ 
+Finally, more stakeholders would benefit from an early involvement. Project management is con
+sidered to be good if the communication with stakeholders is an integral part of the activities in
+ order to prevent unpleasant surprises by the time the project is ready to be started up. Managing
+ the project is in fact managing all the people involved, keeping them informed and aligned and
+ making the best use of their collective capabilities. Obviously tools, techniques and procedures
+ will be essential to deliver the project, but the success of the project depends for the great
+est part on the fruitful collaboration of all the parties involved. Fewer boundaries– perceived or
+ real– between the various parties will have a positive effect on the outcome.
+
+Future relationships should become real partnerships built on trust and mutual understanding.
+ Building those relationships will require an enormous amount of effort and time in order to
+ change the existing culture of collaboration. Relationships are the foundation of future accom
+plishments. Examples of excellent relationships actually have been realised, yet it requires
+ concerted effort from all parties and it is far from easy to accomplish.
+
+## 1.9 Fit for purpose management of projects
+
+ the previous paragraphs a number of fit for purpose approaches have already been mentioned.
+ 
+• First of all, spending enough time on the design and the development of the project is the
+ main requirement for a successful project outcome. Spending sufficient time and effort on the
+ development of the front end is essential and is more than anything else a fit for purpose step.
+ As mentioned before, the management approach should be commensurate with the size and
+ complexity of the project.
+
+• The second step is to agree with the assurance staff executing the stage gate reviews what the
+ deliverables for each phase of the project will be. Depending on the size and complexity of the
+ project the deliverables can be adjusted. As an example, for simple and small-scale projects
+ sometimes a decision is taken to combine the FED1 and FED2 phases as indicated in Figure 1.2.
+ For that same simple and small-scale project it could be OK to make only one estimate and
+ not go through the steps of a number of estimates with increasing accuracy. One size does
+ not fit all. For a mega-project on the other hand the decision could be that a number of the
+ value improving processes will be executed more frequently, for instance in every phase of the
+ project before every stage gate.
+ 
+ • If the project team is truly integrated, the selection of staff is an issue that needs to be addressed.
+ At this point the focus on people and the fit for purpose approach come together. In such an
+ integrated team one might not need a planner from the contractor and a planner from the
+ owner. Various tasks can be distributed amongst the contributing parties. One needs to make
+ sure the team does not become too heavily loaded. Whether this is feasible depends on the
+ amount of integration and the trust between the parties. LEAN techniques might be beneficial
+ and would certainly support a fit for purpose management approach.
+ 
+ • Collaboration in these integrated project teams will require a real shift in paradigm. The success
+ of the project should be driving individual behaviour and reward, not necessarily the success
+ of the individual companies, owner or contractor. This will require a massive shift in doing
+ business.
+
+## 1.10 Learning from projects
+
+Project management could make a big step forward if only at the end of the project lifecycle sufficient time would be set aside to report on the accomplishments of the project and the project
+ management. Quite often and certainly in the present market, demand for human resources is
+ so high that even before the project is completed there is already a pull to transfer the project
+ manager to a new project and let his deputy complete the last details and the last few months.
+ Of course that can be done and it is as a matter of fact an excellent learning opportunity for the
+ deputy, but what really suffers is the managerial learning process (Storm & Savelsbergh, 2005).
+
+A concerted effort should be made to capture all the lessons learnt from the project, report
+ them back and where feasible incorporate them in future procedures, tools and systems. This
+ is done, first of all for economic reasons. Has the project really delivered what was originally
+ promised in the business case? But this should also be done from a project management
+ perspective. Have new methods and approaches been applied successfully in this project that are
+ worth replicating in future similar projects or in general? A loud and clear plea is made that time
+ should be set aside after project completion to seriously capture the lessons learnt together with
+ the relevant high-level data.
+ 
+ Where possible it should be considered to make a case study out of these lessons for the edu
+cation of future project managers and other project professionals. Securing that this actually
+ happens is probably the biggest challenge for the future of management of projects. Often solu
+tions might have been developed by a project team and are being applied unnoticed for other
+ projects, because of the extreme focus on delivery.
+
+  This lack of managerial learning is a potential cause for project failure which for unknown
+ reasons hardly ever shows up in the top-ten reasons for project failure (also absent in Table 1.2).
+ Cooper (2002) has given a number of reasons that hamper the managerial learning. His remarks
+ as quoted below clearly resonate with and have been augmented by the author’s own expe
+riences and beliefs:
+
+ • The misguided prevalent belief that every project is different
+ • The difficulty in determining the true causes of project performance
+ • Projects are transient phenomena and few companies have sufficient resources for the very
+ purpose of gleaning and improving upon transferable lessons of project management
+ • While there are individuals who learn, their limited span and career paths make systematic
+ assessments and learning of transferable lessons that get incorporated in subsequent projects
+ extremely difficult
+ • The nature and character of project managers
+
+ In order to broaden project management from a skill to a discipline it is essential that the learning
+ in all phases and at all levels is institutionalised. This requires that time is set aside for captur
+ing the learning of individuals, teams and the project as a whole and to analyse in an open
+ and honest manner where improvements still could be made and what should have been done
+ differently in case of a mishap. This should not be done in isolation, only amongst the project
+ professionals, but in a concerted effort with all players with the aim of further improving the
+ management of projects as a professional discipline. Another way of transferring learning is that
+ a project team takes a young upcoming project professional on-board to train them on the job.
+ Handing over the experience and integrating the learning in the execution of a project is essen
+tial for future success.
+
+ There is already vast experience on what can go and what has gone wrong in projects. The
+ Independent Project Analysis (IPA) company founded by Ed Merrow has gathered an enormous
+ amount of data via their annual benchmarking process. The top 18 reasons for project failure as
+ indicated by IPA are shown in Table 1.2. These data have surely matured over time and are by
+ now based on a very extensive portfolio of completed projects.
+ 
+ Earlier Pinto (1997) showed that lessons could be learnt from past failures (see Table 1.3). In his
+ article he uses previous project failures as triggers for potential future risks and the accompany
+ing mitigating actions to overcome these. It is concerning that seventeen years later and after
+ having spent an incredible amount of money, the same mistakes are still being made. Some of
+  the failures stated by Pinto do overlap with the IPA findings, but the latter ones are slightly more
+ detailed and already more focused on the front-end loading, where the difference can be made
+ as explained earlier in this chapter.
+ 
+ Recently Merrow (2011) published a book on industrial megaprojects. In the introductory chapter
+ of this book he argues that he has seen megaprojects going off the rails due to big mistakes made
+ by senior managers in the owner companies, not necessarily by the project managers. The main
+ reason for these mistakes is that these managers or executives have control over the issues that
+ have the most impact: strategy, money and people. The relationship that has the most influence
+ amongst the hundreds of relationships a project manager is maintaining, is the relation with his
+ sponsoring business director. The behaviour of these executives with respect to projects and their
+ execution has been summarised by Merrow as the ‘Sorry Seven’.
+
+ • I want to keep it all
+ • I want it NOW
+ • Don’t worry; we’ll work out the details of the deal later
+ • Why do we have to spend so much up front?
+ • We need to shave 20 percent off that number
+ • The contractor should carry the risk; they’re doing the project
+ • Fire those #$@$^! project managers who overrun our projects
+ 
+ These seven mega-mistakes are very recognisable to most project managers. The seven mis
+takes again in a way support the plea to spend sufficient time on the front-end development,
+ make sure that we only design what is really required and come up with realistic estimates and
+ build true relationships with our contractors and suppliers.
+
+## 1.11 Thecase study
+ 
+ In order to explain the principles that will be shown throughout this book a case study has been
+ created to help clarify most of the processes, tools or procedures. The authors are convinced
+ that some practical examples will help to remember and understand the subjects more easily.
+ In this paragraph the background of the case is explained and the relevant parties are introduced.
+ The fictitious case is based on the data of a real project in its front-end development phase. Some
+ sensitive specifics like numbers and names have been changed for confidentiality reasons. In the
+ subsequent chapters an effort will be made to explain the content of the chapter by means of
+ the case. This part of the chapters is titled The Wind Farm and looks like the next page. 
+
+ ### TheWind Farm
+ 
+ Allwind Energy is the world’s largest supplier of a complete range of products, services
+ and solutions for the use of renewable energy and power transmission in grids. Last fiscal
+ year they employed almost 86,000 people and posted sales of € 27.5 billion.
+ 
+ Allwind has greatly expanded its wind power business since several acquisitions.
+ 
+ Thenumber of employees in its wind power division has increased tenfold from 2000 to
+ approximately 20,000 and sales have increased twelvefold to approximately €16 billion.
+ Allwind ranks second in Europe which is considered one of the most important markets in
+ the world for offshore wind power.
+ 
+ TheWind Farm Energy Polder is a combined onshore and near-shore wind farm under
+ development inVento, in the northern part of the Netherlands. Upon completion it will be
+ the largest wind farm in the country. Owner-operators are members of the Participants
+ WindenergyVento, a partnership of more than 100 agricultural entrepreneurs fromVento
+ and the energy company Esenca.
+ 
+ Due to the size of theWind Farm Energy Polder and its contribution to the countries
+ renewable energy target both the spatial planning process and the necessary licences
+ are subject to a special procedure known as the Government Coordination Scheme.The
+ draft decisions for the wind farm have been made available for public inspection. All local
+ residents and other parties concerned have been given the opportunity to submit their
+ opinion.
+ 
+ Construction of access roads will soon begin as well as the expansion of the 110kV
+ transport network in order to connect the wind farm (done by the grid operator and
+ formally outside the project scope).
+ 
+ The wind farm will be located along the coast. A total of 80 wind turbines will be
+ erected; 50 will be sited near-shore (Allwind, 3 MW) and 30 onshore (Nishati, 8 MW).
+ Thewind farm will produce 1TWh of electricity annually, enough to provide electricity to
+ 400,000households.
+ 
+ There are currently already 50 wind turbines on the coast shore.The new wind farm will
+ generate significantly more electricity than the current one, thanks to improved wind
+ turbine technology. One new onshore wind turbine provides as much electricity as the
+ current50windturbinesputtogether. Itisplannedtodismantletheexistingwindturbines
+ once the new farm is constructed.
+ 
+ An estimated total investment of about €1 billion is required for the construction of the
+ wind farm (for all 80). Residents in the proximity of the Energy Polder may also financially
+ participate in a section of the wind farm through an equity participation scheme.The
+ project will provide a sustainable boost to the local economy.The construction of the
+ wind farm will ensure employment opportunities. During the construction phase, around
+ 300new jobs will become available. Once it has been built, the wind farm will help
+ provide about 100 permanent jobs.
+ 
+ Allwind will be responsible for the turnkey realisation of the near-shore part of theWind
+ Farm Energy Polder, including the design, supply, delivery, installation, commissioning
+ and testing, service, operations as well as maintenance of this 150 MW wind farm in
+ compliance with all the permits, consents and other agreements. Besides the turnkey
+ realisation of the wind farm, a 20-year maintenance contract will be signed as well.
  
 '''
 st.markdown(teks01)
