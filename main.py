@@ -1,40 +1,51 @@
 import streamlit as st
 
 teks01 = '''\
-The fourth and present era (1994 onwards) shows an unprecedented availability of and accessibility to \
-information. With the advent of the Internet and its spread across the globe, the project management \
-community has become more efficient in controlling and managing the various aspects of projects.
+1.4 Project management standards
  
-The first time that the general public in its entirety was confronted with project management and its \
-side effects was around the transition into the new millennium, also known as the Y2K project or the \
-Millennium Bug. The Y2K project was instigated by the belief that on January 1st, 2000, most computer \
-programmes would not function correctly anymore. Many organisations  adopted project management tools \
-and techniques to execute their own Y2K project.
+ Projects require effective management from inception to completion if they are to be completed
+ safely, on time and within budget and to meet additional business objectives as well. Therefore,
+ project management is nothing more than the controlled execution of an activity to complete an
+ agreed scope of work and meet predefined targets. The main objective of project management
+ is to deliver all the project goals and targets for the customer and possibly other stakeholders
+ involved within the boundary conditions given. Consequently, the management of engineering
+ projects is the controlled execution of design, engineering and construction activities for an
+ engineering project in such a manner that the project can be realised to meet the requirements
+ of the customer, technical or otherwise, within the given constraints such as safety, cost, time,
+ quality, resource, etc.
  
-In this same period, the oil and gas industry started developing even larger major capital investment \
-projects in order to keep up with the ever growing energy demand of the world. Easy oil has long been \
-discovered and the explorations and developments must now take place in new and unknown territories. \
-Projects are becoming more complex with even bigger technological challenges. Examples include deep-water \
-exploration and production near Brazil, in the Gulf of Mexico and Malaysia (~ 3 km of water depth), \
-ever larger Liquid Natural Gas plants in the Middle East and the far east of Russia (liquefying \
-natural gas at low temperature and transporting it by ship) and the Gas to Liquid plants in South Africa \
-and in Qatar (making liquid products out of gas via the Fischer-Tropsch process). 1.3 From ‘over the fence’ \
-management to project management Over-the-fence management (Kerzner, 2005) preceded contemporary project management. \
-Traditionally, each discipline or function took care of its own activities. When the task was completed, \
-the job was given to the next function in the line (‘thrown over the fence’). This means  \
-that all the work was completely sequentially in nature and the last in line would most probably get \
-all the blame if the project went off-track. As a consequence schedule improvement was hard to realise. \
-The majority of project activities were performed by line managers who were more interested in the advancement \
-of their own departments than the success of the task at hand. In fact, nobody was truly looking after \
-the best interest of the project. Project management did not really exist. Another disadvantage of this \
-sequential approach was that it was very difficult for customers to keep track of where their ‘project’ was. \
-Therefore at a certain stage, customers (and looking at
- the earlier examples this was most often the government) demanded a single point of contact throughout the \
- ‘project’, a person who would be part of the development process during the  entire lifecycle. When this \
- happened in the 1950s, the project manager was born. Initially, this came with much resistance from senior \
- managers as well as sales and marketing staff, since all  were afraid of losing their influence. From there \
- on the whole project management approach has been mostly based on best practice sharing and handing over of \
- experience from manager to manager. This system has quite  a number of similarities with the traditional \
- medieval master/fellow relation, although project management is a much younger discipline.
+ Project management is all about structure, standards and processes. Since the birth of the pro
+ject management discipline at the end of the 1950s, the various project management bodies
+ have grown exponentially. They all have produced best practices, guides and supporting tools
+ to further develop the project management discipline. At the moment a variety of standards and
+ disciplines are available for managing projects. Probably the oldest and best established is the
+ Project Management Body of Knowledge (PMBoK, 2008). The PMBoK Guide as developed, main
+tained and published by PMI (Project Management Institute) is the preeminent global standard
+ for project management. It provides project managers with the fundamental practices needed to
+ achieve organisational results and excellence in the practice of project management.
+ Their counterpart, the International Project Management Association (IPMA) has developed the
+ International Competence Baseline (ICB) Version 3.0. The ICB provides the official definition of
+ the competences expected from project management personnel by IPMA for certification within
+ the IPMA certification system.
+ 
+ Some governments developed over the years their own project management systems. The best
+known example is PRINCE2. PRINCE2 (Projects IN Controlled Environments, 2009) is a de facto
+ standard developed and used extensively by the UK government and is widely recognised and
+ applied in the private sector, both in the UK and internationally. It embodies established and
+ proven best practice in project management.
+ 
+ Since mid-2012 the voluntary International Standard Organisation (ISO) has issued the ISO 21500
+ Guidance on Project Management. The latter has been developed by participants from over 30
+ countries. It can be used by any type of organisation including public, private or community
+ organisations, and for any type of project irrespective of complexity, size and duration. ISO 21500
+ provides a high-level description of concepts and processes that are considered to form good
+ practice in project management. New project managers as well as experienced managers will be
+ able to use the project management guidance in this standard to improve project success and
+ achieve business results.
+ 
+ Not only governments developed their own project management systems and procedures but
+ also, large industrial companies decided to translate their own successful working practices in
+ the field of project management into a project management system. Those pragmatic and prac
+tice-oriented systems for managing projects form the basis of the approach chosen in this book.
 '''
 st.write(teks01)
