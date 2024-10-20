@@ -357,18 +357,18 @@ tions might have been developed by a project team and are being applied unnotice
  as quoted below clearly resonate with and have been augmented by the author’s own expe
 riences and beliefs:
 
- • The misguided prevalent belief that every project is different
+• The misguided prevalent belief that every project is different
  
- • The difficulty in determining the true causes of project performance
+• The difficulty in determining the true causes of project performance
  
- • Projects are transient phenomena and few companies have sufficient resources for the very
+• Projects are transient phenomena and few companies have sufficient resources for the very
  purpose of gleaning and improving upon transferable lessons of project management
  
- • While there are individuals who learn, their limited span and career paths make systematic
+• While there are individuals who learn, their limited span and career paths make systematic
  assessments and learning of transferable lessons that get incorporated in subsequent projects
  extremely difficult
  
- • The nature and character of project managers
+• The nature and character of project managers
 
  In order to broaden project management from a skill to a discipline it is essential that the learning
  in all phases and at all levels is institutionalised. This requires that time is set aside for captur
