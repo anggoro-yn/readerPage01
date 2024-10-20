@@ -328,7 +328,8 @@ plishments. Examples of excellent relationships actually have been realised, yet
 
 ## 1.10 Learning from projects
 
-Project management could make a big step forward if only at the end of the project lifecycle sufficient time would be set aside to report on the accomplishments of the project and the project
+Project management could make a big step forward if only at the end of the project lifecycle 
+sufficient time would be set aside to report on the accomplishments of the project and the project
  management. Quite often and certainly in the present market, demand for human resources is
  so high that even before the project is completed there is already a pull to transfer the project
  manager to a new project and let his deputy complete the last details and the last few months.
@@ -357,12 +358,16 @@ tions might have been developed by a project team and are being applied unnotice
 riences and beliefs:
 
  • The misguided prevalent belief that every project is different
+ 
  • The difficulty in determining the true causes of project performance
+ 
  • Projects are transient phenomena and few companies have sufficient resources for the very
  purpose of gleaning and improving upon transferable lessons of project management
+ 
  • While there are individuals who learn, their limited span and career paths make systematic
  assessments and learning of transferable lessons that get incorporated in subsequent projects
  extremely difficult
+ 
  • The nature and character of project managers
 
  In order to broaden project management from a skill to a discipline it is essential that the learning
@@ -400,11 +405,17 @@ ing mitigating actions to overcome these. It is concerning that seventeen years 
  execution has been summarised by Merrow as the ‘Sorry Seven’.
 
  • I want to keep it all
+ 
  • I want it NOW
+ 
  • Don’t worry; we’ll work out the details of the deal later
+ 
  • Why do we have to spend so much up front?
+ 
  • We need to shave 20 percent off that number
+ 
  • The contractor should carry the risk; they’re doing the project
+ 
  • Fire those #$@$^! project managers who overrun our projects
  
  These seven mega-mistakes are very recognisable to most project managers. The seven mis
