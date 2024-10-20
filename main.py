@@ -55,6 +55,7 @@ tice-oriented systems for managing projects form the basis of the approach chose
  lifecycle up in 5 or even 8 phases. Some examples that are given in Figure 1.2 originate from the
  exploration and production industry, the refining industry, IPA (Independent Project Analysis) and
  the process industry respectively.
+ 
  The project management lifecycle as defined in this book is based on and aligned with the gen
 eral business process. In the first step a potential future project– called an opportunity in this
  phase– is identified, the potential value is assessed and the alignment with the business strategy
@@ -71,10 +72,12 @@ development work is properly executed and sufficiently detailed, this will resul
  operated. A couple of months into this phase the operation will be evaluated to ensure that the
  asset performs as forecasted and in line with the customer’s expectations, the so-called post
 investment review or PIR.
+
  The PIR is one of the many documents that will be produced in the execution of a project.
  In Figure 1.2 some of the engineering documents or deliverables are indicated for each of the
  phases. Gradually the level of detail in these documents will grow and the accuracy of the scope,
  the cost estimate and the planning will increase in parallel.
+ 
  Only a couple of years ago, an additional phase was added to the project management lifecycle.
  This phase is called the abandonment phase. With the growing environmental concerns as advo
 cated by e.g. the nongovernmental organisations, attention has to be given as to how the assets
@@ -84,6 +87,7 @@ tion life, but once this is not economically feasible the asset has to be abando
  and the development of the project. In the design phase, decisions can be taken that will simplify
  abandonment three or four decades later. In the actual project management practice, this aban
 donment project will be a separate project well into the future.
+
  Despite the varying names or titles, what the project management lifecycles from various indus
 tries all have in common is considerable attention for the front-end development phase of the
  project. In other words, if done correctly a lot of attention, time and effort is invested in defining
@@ -91,6 +95,7 @@ tries all have in common is considerable attention for the front-end development
  the ground or any weld is laid. The main reason for that is that the scope at this front-end stage
  can still be changed relatively easy without too much impact on the overall costs and schedule.
  Later on, a change can potentially be very costly and even derail the project.
+ 
  The effect of influence and costs on project lifecycles is schematically indicated in Figure 1.3.
  Prior to the final investment decision most of the work performed is paper-based. Scope has
  been worked out and design has been further detailed. In the worst case a lot of man hours are
@@ -99,6 +104,7 @@ tries all have in common is considerable attention for the front-end development
  perhaps even before the detailed design is finalised. Especially in the industrial mega projects,
  these preorders will be a large part of the execution budget. Changes in the project after pre
 ordering the long lead items will have a disastrous impact on the project.
+
  Nevertheless, the reasoning for a good front-end development phase is not only financially based.
  Spending sufficient time on all the aspects of a project in the early phase will have an enormous
  influence on the execution of the project and the final result. A project well-defined in the front
@@ -106,6 +112,7 @@ end development phase has a chance of becoming successful provided the execution
  well managed. An ill-defined project can never be turned around for the better during execution
  however good the management of the execution is. But a well-defined project can certainly be
  derailed and even destroyed during an improperly managed execution phase.
+ 
 Based on the business alignment, the project phases as defined in this book are represented in
  Figure 1.4. Since the abandon phase is most often considered a separate project, the decision was
  taken to exclude this phase and limit the project management lifecycle to five phases in total.
@@ -118,6 +125,7 @@ Based on the business alignment, the project phases as defined in this book are 
  project management processes as they exist in the company. By carrying out this assessment
  really independently and seriously, mishaps and omissions can be prevented which might later
  on result in derailed projects.
+ 
   In the first phase the business analyst together with the asset manager and the business mana
 gers will select the right project for the existing business strategy. The question that they will be
  asking themselves is this: ‘Are we doing the right project’. The subsequent phases in the execu
@@ -125,6 +133,7 @@ tion and the assessment performed during the stage gates will focus only on whet
  is done right.
 
 ## 1.6 Towards management of engineering projects
+
  The project management systems are quite often based on ISO9000 principles and therefore
  the steps taken in the development of a project are documented and the process followed is
  auditable and continuous learning is embedded. The project management process is quite often
@@ -133,6 +142,7 @@ ities that are taking place in the course of a project (estimating, cost control
  scheduling etc.). These systems/procedures have been developed over the years and are handed
  over from one project manager to another. ISO9000 has driven the thorough documentation of
  these project management systems.
+ 
  Morris (2003) presented an analysis of the project management practices in the construction
  industry (our focus in this book) and the implications for the project management societies. What
  becomes evident from this analysis (see Figure 1.5) is that the classical project management
@@ -148,12 +158,14 @@ ject manager. That is when focus shifts from project management to management of
  as indicated in Figure 1.6. This basically means that all relevant players should be involved as
  early as (reasonably) possible in the definition (of functional requirements) and development of
  a project.
+ 
  Ideally, in the future no more handing over from business developer to project manager, to con
 tractor, to operator and finally to maintainer will take place. Instead, all parties should together
  be involved from the earliest possible stage onwards. In short– and referring back to my earlier
  statement– project management was born from over-the-fence management and has come
  a long way, but there are still a few more fences to be demolished. Integration throughout the
  project lifecycle is key to future success.
+ 
  As a consequence of this change, a major improvement will be that the business development
  is done in a more realistic manner taking the construction market and the project management
  peculiarities more seriously into account. It means that in the appraisal phase (see Figure 1.6)
@@ -162,6 +174,7 @@ tractor, to operator and finally to maintainer will take place. Instead, all par
 cal aspects of the business opportunity into consideration. Also, interaction with the customer
  (when applicable) should be done in cooperation between business developer or commercial
  staff and the project manager.
+ 
  If integration throughout the project lifecycle is taken seriously, it implies that all parties should
  be involved far earlier than they were used to. Not only the project manager and business deve
 loper should join hands at a much earlier stage but also, maintenance staff and operators need to
@@ -181,6 +194,7 @@ tion) type contracts a number of the activities were already becoming more integ
  and Operate of the future assets together with a number of complementary companies. One
  might even argue that when the execution is really integrated, the third bar will probably become
  shorter due to higher efficiency, effectiveness and less rework.
+ 
  This is easier said than done. Over the last few decades many of these activities have been
  outsourced by major companies. To integrate these activities more closely may now seem coun
 terintuitive, but the only way forward. The project manager might be swimming against the stream
@@ -193,14 +207,17 @@ terintuitive, but the only way forward. The project manager might be swimming ag
  earliest possibility in the life of the project. This is still a real challenge.
  
  ## 1.7 Projects fail by spectacular numbers
+ 
  What does the general public know about engineering projects, project management and project
  success? If a survey were to be organised today, the majority would probably quote newspapers
  and state that projects are generally completed far later than originally planned and that they
  cost a bundle more.
+ 
  And honestly, they would not be far out, even based on the professional literature available.
  Recent infrastructural projects, projects in the oil and gas industry, the IT industry, but also many
  projects in the aerospace and defence industry over the last couple of decades are not the best
  examples that might be expected.
+ 
  Of course, what made it to the newspapers are the mishaps, the disasters. Most often contributed
  to the project manager or project management. The news value of a project delivered in time
  and within budget is still relatively low and in that case it is due to the foresight and vision of the
@@ -208,12 +225,14 @@ terintuitive, but the only way forward. The project manager might be swimming ag
  project management profession is traditionally not seen as the discipline with the most appeal
  (Van de Laar, 2007). Quite often in the business world people prefer a career in line management
  rather than a career in project management.
+ 
  The project management discipline as a whole does not have an incredibly good track record.
  Morris and Hough (1987) have analysed a large number of projects– some 3,500 projects from
  all over the world– realised in the period 1959 till 1984 (see Table 1.1). These projects were exe
 cuted in both the civil and military industry as well as in the power and nuclear industry. They
  came to the staggering conclusion that these projects showed typical overruns in expenditure
  and schedule between 40 and 200% (and bigger overruns have been seen).
+ 
  The independent international benchmarking company IPA produces an annual benchmarking
 comparison of the projects that have been completed by their member (subscribing) compa
 nies the previous year. By now, IPA has a database of more than 12,000 projects from within the
@@ -224,6 +243,7 @@ nies the previous year. By now, IPA has a database of more than 12,000 projects 
  top of that, less than 39% of projects lived up to their promises during the first year of operation.
  Another more recent example is the analysis of Flyvbjerg (2007) showing a similar trend in cost
  overruns in large infrastructural projects: 9 out of 10 projects have a cost overrun.
+
  In Figure 1.8 a plot of 19 anonymised large engineering projects– executed in the period 1992
  till 2007, and collected by the author– is presented. These were the megaprojects of those days,
  the construction of process plants with total investment costs ranging from € 500 million to 2
@@ -234,6 +254,7 @@ nies the previous year. By now, IPA has a database of more than 12,000 projects 
  projects can be considered successful according to this definition: a very disappointing 58% fail
 ure rate. An underspending of more than 10% is also considered unfavourable, because money
  was tight up unnecessarily in the project that could have been used for other investments.
+ 
  These results, whilst dated in some cases, are shocking. The most concerning fact is that over
  the last 30 years the performance of the projects delivered has hardly improved. The results are
  totally in line with the perception of the general public regarding projects and project manage
